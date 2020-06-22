@@ -1,0 +1,8 @@
+p {
+  font-family: Lato;
+}
+.navLink {
+  margin: 4px ;
+  padding: 4px ;
+  display: inline-block ;
+}
